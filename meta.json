@@ -23,7 +23,7 @@
   "experimentalPreset": null,
   "selectionSignals": {
     "servicesCount": 7,
-    "imagePoolCount": 4,
+    "imagePoolCount": 3,
     "hasRelevantImagery": true
   },
   "resolvedVisualDirection": {
@@ -57,7 +57,7 @@
     "motion_preset_reason": "visual system default (clean-tech-glass → bento-stagger-depth)",
     "motion_preset_content_gated": false,
     "services_count": 7,
-    "image_pool_count": 4,
+    "image_pool_count": 3,
     "has_relevant_imagery": true,
     "experimental_preset": null,
     "experimental_preset_label": null,
